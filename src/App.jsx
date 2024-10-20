@@ -5,7 +5,7 @@ import Country from "./components/Country/Country";
 function App() {
   return (
     <>
-      <h1>React3 - Module40-1 </h1>
+      <h1>React3 - Module40</h1>
       <Countries></Countries>
       <Country></Country>
     </>
