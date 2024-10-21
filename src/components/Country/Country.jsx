@@ -13,6 +13,7 @@ const Country = ({ country }) => {
       <h3>Short Code: {country?.cca3 || "Not Found the Short Code"} </h3>
       <h3>Population: {population}</h3>
       <h3>Area: {area}</h3>
+      <button>Visited Country</button>
     </div>
   );
 };
